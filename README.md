@@ -1,5 +1,3 @@
 # UBHACKING
-//first locate a file, the point is it for it to be in Russian
-//I love Russian Culture
-//then watch as how the text file is translated into english in a seperate file
-/
+First attempt at creating a program that takes a line of text, in this case Russian song lyrics, and translates it to English by a simple table conversion chart.
+
